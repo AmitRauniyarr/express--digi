@@ -1,0 +1,22 @@
+{
+  "name": "dot-manager",
+  "version": "1.0.0",
+  "description": "a simple manager",
+  "keywords": [
+    "express"
+  ],
+  "license": "ISC",
+  "author": "amit rauniyar",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
